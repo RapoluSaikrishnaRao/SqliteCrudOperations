@@ -13,6 +13,10 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cursoradapter.widget.SimpleCursorAdapter;
 
+/***
+ * This is the country list Class.
+ */
+
 public class CountryListActivity extends AppCompatActivity {
 
     private DBManager dbManager;
