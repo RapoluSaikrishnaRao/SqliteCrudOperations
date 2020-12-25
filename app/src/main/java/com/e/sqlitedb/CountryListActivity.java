@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.cursoradapter.widget.SimpleCursorAdapter;
 
 /***
- * This is the country list Class.ok
+ * This is the country lists Class.ok
  */
 
 public class CountryListActivity extends AppCompatActivity {
